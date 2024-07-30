@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my 𝒫𝓇𝑜𝒻𝒾𝓁𝑒</h1>
+<h1>Welcome to my 𝒫𝓇𝑜𝒻𝒾𝓁𝑒</h1>
 <div>
 <p>
 I'm Snowy, A 13 year old Fullstack Developer
