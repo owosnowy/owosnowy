@@ -1,10 +1,11 @@
-- 👋 Hi, I’m Snowy
-- 👀 I’m interested in Money, Hoes, Cash
-- 🌱 I’m currently learning How to make money
-- 💞️ I’m looking to collaborate on Making money
-- 😄 Pronouns: they/them
-
-<!---
-snowyluv/snowyluv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center">Welcome to my 𝒫𝓇𝑜𝒻𝒾𝓁𝑒</h1>
+<div>
+<p>
+I'm Snowy, A 13 year old Fullstack Developer
+</p>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GoLang.svg" width="48" height="48" />
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" width="48" height="48" />
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" width="48" height="48" />
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Rust.svg" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Dark.svg" width="48" height="48" />
+</div>
